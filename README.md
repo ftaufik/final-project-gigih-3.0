@@ -1,8 +1,59 @@
-# React + Vite
+# Final Project GIGIH
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## With Vite + React
 
-Currently, two official plugins are available:
+### Description
+- **This project for final assignment at Generasi GIGIH 3.0**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+- **Users can open Home Page and Video Detail Page**
+- **User can see video list with thumbnail from YouTube in home page**
+- **User can click each video and go to video detail page**
+- **User can see list products, embed YouTube,list comment, and form submit comment**
+- **User just need input name and comment when submit comment in form**
+- **User can see their comment in list comment section after success submit comment**
+
+## How To Install and Run
+- **Clone the server :**
+```
+git clone https://github.com/ftaufik/mid-term-gigih-3.0.git
+```
+- **Move to the project folder, as a default /mid-term-gigih-3.0. on terminal run command :**
+```
+npm install
+```
+next
+```
+npm run dev
+```
+- **Clone the ui :**
+```
+git clone https://github.com/ftaufik/final-project-gigih-3.0.git
+```
+- **Move to the project folder, as a default /mid-term-gigih-3.0. on terminal run command :**
+```
+npm install
+```
+next
+```
+npm run dev
+```
+#### Link Repository :
+
+- **Front End**
+
+```
+https://github.com/ftaufik/final-project-gigih-3.0
+```
+
+- **Back End**
+
+```
+https://github.com/ftaufik/mid-term-gigih-3.0
+```
+
+#### Link Live Website :
+
+```
+https://final-project-gigih-3-0.vercel.app/
+```
